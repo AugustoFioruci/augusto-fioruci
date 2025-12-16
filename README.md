@@ -1,14 +1,3 @@
-**👋 Data Analyst
-
-• Power BI | SQL | Python
-• BI, KPIs e automação de dados
-
-📌 Projetos
-- BI de Vendas (Power BI + DAX)
-- ETL de dados com Python e SQL(Em Andamento)
-
-📫 Contato
-LinkedIn: https://www.linkedin.com/in/augusto-fiorucci/
 **## 👋 Data Analyst
 
 Analista de Dados focado em **BI, KPIs e automação de dados**.
@@ -46,4 +35,4 @@ Atuar como **Estagiário ou Analista de Dados Júnior**, contribuindo com análi
 
 ## 📫 Contato
 
-* LinkedIn: (coloque o link aqui)
+* LinkedIn: https://www.linkedin.com/in/augusto-fiorucci/
