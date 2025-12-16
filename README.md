@@ -1,4 +1,4 @@
-**## 👋 Data Analyst
+**##👋 Data Analyst
 
 Analista de Dados focado em **BI, KPIs e automação de dados**.
 
